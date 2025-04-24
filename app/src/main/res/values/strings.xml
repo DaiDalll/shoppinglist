@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <integer-array name="image_list">
+        <item>@drawable/apo</item>
+        <item>@drawable/bobo</item>
+        <item>@drawable/bug</item>
+        <item>@drawable/cat</item>
+        <item>@drawable/dragon</item>
+        <item>@drawable/duck</item>
+        <item>@drawable/ghost</item>
+        <item>@drawable/mole</item>
+        <item>@drawable/pika</item>
+        <item>@drawable/seed</item>
+        <item>@drawable/strong</item>
+        <item>@drawable/turtle</item>
+    </integer-array>
+
+
+</resources>
